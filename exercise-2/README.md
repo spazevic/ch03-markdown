@@ -13,4 +13,4 @@ See `complete` branch for answers.
 |This is a table|See totally a table|
 |---------------|-------------------|
 |This is a class|So is this         |
-|---------------|-------------------|
+|No bottom      |This is it         |
